@@ -1,0 +1,16 @@
+name,location,phone,industry,email,name_length
+Companies Business 1,"City 0, State Technology",555-0000,Healthcare,contact0@companies.com,20
+Companies Business 2,"City 1, State Technology",555-0001,Healthcare,contact1@companies.com,20
+Companies Business 3,"City 2, State Technology",555-0002,Technology,contact2@companies.com,20
+Companies Business 4,"City 3, State Technology",555-0003,Technology,contact3@companies.com,20
+Companies Business 5,"City 4, State Technology",555-0004,Healthcare,contact4@companies.com,20
+Incubators Business 1,"City 0, State Startup",555-0000,Finance,contact0@incubators.com,21
+Incubators Business 2,"City 1, State Startup",555-0001,Finance,contact1@incubators.com,21
+Incubators Business 3,"City 2, State Startup",555-0002,Retail,contact2@incubators.com,21
+Incubators Business 4,"City 3, State Startup",555-0003,Retail,contact3@incubators.com,21
+Incubators Business 5,"City 4, State Startup",555-0004,Finance,contact4@incubators.com,21
+Agencies Business 1,"City 0, State Marketing",555-0000,Technology,contact0@agencies.com,19
+Agencies Business 2,"City 1, State Marketing",555-0001,Technology,contact1@agencies.com,19
+Agencies Business 3,"City 2, State Marketing",555-0002,Retail,contact2@agencies.com,19
+Agencies Business 4,"City 3, State Marketing",555-0003,Technology,contact3@agencies.com,19
+Agencies Business 5,"City 4, State Marketing",555-0004,Retail,contact4@agencies.com,19
